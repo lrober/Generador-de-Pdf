@@ -1,4 +1,4 @@
-# Generador-de-Pdf
+# Generador de Pdf
 Developer IlusCode  
 itext   
 https://goo.gl/bGeqRG     o
